@@ -235,9 +235,9 @@ F 3 "" H 9250 3000 50  0001 C CNN
 	1    9250 3000
 	-1   0    0    1   
 $EndComp
-Text HLabel 10200 3500 2    60   Input ~ 0
-CHG_SIG
 Text HLabel 10200 3700 2    60   Input ~ 0
+CHG_SIG
+Text HLabel 10200 3500 2    60   Input ~ 0
 DCH_SIG
 Text GLabel 4900 1800 0    60   Input ~ 0
 V+
